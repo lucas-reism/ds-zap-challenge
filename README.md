@@ -1,8 +1,7 @@
-# ds-zap-challenge
 
-# Challenge Accepted
+# Challenge Accepted | ds-zap-challenge
 
-Data Science challenge - Grupo Zap
+## Data Science challenge - Grupo Zap
 
 
 # License 
